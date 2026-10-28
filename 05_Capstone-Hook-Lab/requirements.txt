@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+python-dotenv
+scikit-learn
+matplotlib
+seaborn
+joblib
+jupyter
+google-genai

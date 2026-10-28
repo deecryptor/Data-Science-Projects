@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# raw data not shared (large, or contains personal data)
+05_Capstone-Hook-Lab/data/raw/
+03_Toxic-Comment-Detection/data/raw/
+02_HDB-Resale-Prices/data/*.csv
+
+# presentation decks
+*.pdf
+*.pptx
+*.key
+
+# python / jupyter / os
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
