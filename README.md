@@ -1,6 +1,6 @@
 # General Assembly Data Science Projects
 
-Projects done mainly during my time in the General Assembly Data Science Immersive program, from exploratory analysis through regression, NLP classification and time series forecasting. I have done a revised capstone to attempt combining machine learning with generative AI.
+Projects done mainly during my time in the General Assembly Data Science Immersive program, from exploratory analysis through regression, NLP classification and time series forecasting. Projects 1 to 3 were checked for errors and partly revised with the help of Claude Code, an AI coding assistant. The capstone is a new attempt, also built with Claude Code’s assistance, that combines machine learning with generative AI.
 
 **Featured: [Capstone: Short Video Hook Lab](05_Capstone-Hook-Lab).** A model that predicts which YouTube Shorts will beat their channel's usual views from decisions made before posting, plus an AI title rewriter (Google Gemini) scored by that model.
 
