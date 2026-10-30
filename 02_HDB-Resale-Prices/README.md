@@ -65,7 +65,7 @@ Investigate trends in the data and provide following observations:
 ## Data Visualizations
 
 The following charts are plotted to better visualize the data trends and correlations:
-  **Correlaion Heatmap**
+  **Correlation Heatmap**
 
   <img src="./images/heatmap.png" style="width: 100%; height: auto;">
 
